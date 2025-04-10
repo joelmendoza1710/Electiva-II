@@ -1,0 +1,21 @@
+ID_Usuario,Edad,Lugar_Vivienda,Fecha_Llegada,Fecha_Salida,Location,Rating,Comment,Sentimiento_Comentario,Repetición_Visita
+USR000,55,medellín,2023-03-18,2023-02-04,playa blanca,5,,,Sí
+USR001,25,bogotá,2023-02-11,2023-01-10,Castillo San Felipe,2,,,Sí
+USR002,29,medellín,2023-02-04,2023-01-28,Playa Blanca,3,,,Sí
+USR003,29,Barranquilla,2023-01-20,2023-01-12,playa blanca,3,,,No
+USR004,35,Bogota,2023-03-03,2023-02-01,playa blanca,1,,,No
+USR005,45,bogotá,2023-02-06,2023-01-15,Castillo San Felipe,2,,,Sí
+USR006,29,Bogota,2023-01-14,2023-01-17,playa blanca,2,,,Sí
+USR007,55,bogotá,2023-03-11,2023-01-16,Castillo San Felipe,2,,,No
+USR008,40,barranquilla,2023-03-05,2023-01-18,playa blanca,2,"Me encantó el lugar, fue maravilloso",,Sí
+USR009,,Bogota,2023-03-24,2023-01-12,Playa Blanca,4,,,No
+USR010,35,bogotá,2023-01-13,2023-01-19,Castillo San Felipe,4,,,No
+USR011,60,medellín,2023-03-28,2023-01-26,Playa Blanca,3,La experiencia fue regular,,No
+USR012,,Bogota,2023-01-13,2023-01-29,Playa Blanca,4,"Me encantó el lugar, fue maravilloso",,No
+USR013,,Bogota,2023-01-25,2023-01-16,Playa Blanca,1,No me gustó la atención,,Sí
+USR014,32,Bogota,2023-02-21,2023-01-19,Ciudad Amurallada,4,No me gustó la atención,,Sí
+USR015,60,bogotá,2023-03-25,2023-01-29,Ciudad Amurallada,,,,Sí
+USR016,35,medellín,2023-03-26,2023-01-24,Castillo San Felipe,5,"Me encantó el lugar, fue maravilloso",,No
+USR017,35,medellín,2023-01-28,2023-01-28,Playa Blanca,2,"Me encantó el lugar, fue maravilloso",,Sí
+USR018,,medellín,2023-03-01,2023-01-10,Playa Blanca,3,No me gustó la atención,,No
+USR019,32,bogotá,2023-03-19,2023-02-04,Ciudad Amurallada,5,La experiencia fue regular,,No
